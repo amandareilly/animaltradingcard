@@ -5,7 +5,7 @@
   box-shadow: 7px 7px 2px #eee;
 }
 
-h3 {
+name {
   margin-top: 0;
 }
 
@@ -20,7 +20,7 @@ h3 {
   margin-top: 0;
 }
 
-ul {
+.factList {
   list-style:none;
   padding: 0;
 }
